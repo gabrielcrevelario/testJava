@@ -1,0 +1,2 @@
+
+This project was based on the MVC pattern due to the little coupling, in it we will find dependency injection, thread safe etc ... to start using git url place in the cmd in the folder where you want but before the address write git clone, open project execute. This project is done with the intention of creating many events, removelos, so the use of multthreads
